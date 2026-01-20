@@ -20,6 +20,29 @@ int main()
 	 remote repasitory
 
 	github
+
+	git config --global user.name "sillage0"
+	git config --global user.email "woochan060403@gmail.com"
+	git add . --> on stage
+	git commit -m "" --> milestone 
+	git log --> milestone record
+	git remote add origin " " --> origin이라는 이름의 remote repository 제작
+	
 	*/
 	return 0;
 }
+
+
+
+/*
+솔루션
+	프로젝트
+		파일들...
+		파일들...
+	프로젝트
+		파일들
+		파일들
+	프로젝트
+		파일들
+		파일들
+*/
